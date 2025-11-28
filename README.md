@@ -26,7 +26,6 @@ Execute the program using runserver command.
 '''
 <html>
 <head>
-    <link rel="icon" href="logo.png">
     <title>Time Table</title>
     <style>
         table, th, td {
